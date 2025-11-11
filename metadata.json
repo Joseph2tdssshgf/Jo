@@ -1,0 +1,5 @@
+{
+  "name": "Physics Problem Solver",
+  "description": "An interactive web application that solves physics problems and explains the core concepts with detailed explanations and AI-generated real-life example images.",
+  "requestFramePermissions": []
+}
